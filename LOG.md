@@ -1,5 +1,8 @@
 # Devlog
 
+## 2026-10-25
+- Planning day: set the week's list — Phino proposal, Randall project proposal, Text Goal World Models update, and a robotics project with folks at the GDK lab.
+
 ## 2026-10-22
 - Classes: SSL & World Models, Reintegrating AI, Advanced Probabilistic Methods.
 - Reading: Value-Rectified Distillation — distilling flow-matching behavior policies in offline RL without mode averaging.
