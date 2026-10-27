@@ -1,5 +1,9 @@
 # Devlog
 
+## 2026-10-27
+- Classes: SSL & World Models, Reintegrating AI, Advanced Probabilistic Methods.
+- Cancelled the Instacart+ membership before its $99 annual renewal.
+
 ## 2026-10-25
 - Planning day: set the week's list — Phino proposal, Randall project proposal, Text Goal World Models update, and a robotics project with folks at the GDK lab.
 
