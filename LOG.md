@@ -1,5 +1,9 @@
 # Devlog
 
+## 2026-11-01
+- Sunday: Sprint Review + Plan and Weekly Planning in the evening; monthly credit score check came back flat at 739.
+- Laptop still drying after Friday's coffee spill — the 48-hour window runs to Sunday evening.
+
 ## 2026-10-27
 - Classes: SSL & World Models, Reintegrating AI, Advanced Probabilistic Methods.
 - Cancelled the Instacart+ membership before its $99 annual renewal.
