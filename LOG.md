@@ -1,5 +1,9 @@
 # Devlog
 
+## 2026-11-02
+- Monday: CSCI 2952Y guest lecture — Minghao Guo on building scientific world simulators at scale.
+- Laptop test day after Friday's coffee spill: it powered on, and a full backup to the SSD is running before trusting it again.
+
 ## 2026-11-01
 - Sunday: Sprint Review + Plan and Weekly Planning in the evening; monthly credit score check came back flat at 739.
 - Laptop still drying after Friday's coffee spill — the 48-hour window runs to Sunday evening.
