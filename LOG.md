@@ -1,5 +1,9 @@
 # Devlog
 
+## 2026-11-03
+- Tuesday: Election Day, Brown closed, no classes. Studied at CIT.
+- Fall tuition final installment confirmed paid (Installment 5 of 5).
+
 ## 2026-11-02
 - Monday: CSCI 2952Y guest lecture — Minghao Guo on building scientific world simulators at scale.
 - Laptop test day after Friday's coffee spill: it powered on, and a full backup to the SSD is running before trusting it again.
