@@ -1,5 +1,8 @@
 # Devlog
 
+## 2026-11-04
+- Continued work on Phino proposal improvements and Text Goal World Models.
+
 ## 2026-11-02
 - Monday: CSCI 2952Y guest lecture on building scientific world simulators at scale.
 
