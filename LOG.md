@@ -1,5 +1,8 @@
 # Devlog
 
+## 2026-11-07
+- Preparing summer 2027 research internship applications: Google Student Researcher, TRI, and MERL.
+
 ## 2026-11-05
 - Continued work on Phino: prepared a physics-sensitivity analysis script. Also explored action-aware visual representations for dynamics prediction, and FoundationPose/Grounded SAM vision pipelines.
 
