@@ -1,5 +1,8 @@
 # Devlog
 
+## 2026-11-08
+- Continued work on Phino: diagnosed SMWM's forward predictor on a 50-episode Insert-Peg AnyGoal diagnostic — predicted latent changes were nearly orthogonal to actual encoded changes (cosine ≈ −0.03), so the next step is auditing the implementation and training-transition accuracy before running another experiment.
+
 ## 2026-11-07
 - Preparing summer 2027 research internship applications: Google Student Researcher, TRI, and MERL.
 
