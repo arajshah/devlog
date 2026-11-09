@@ -1,5 +1,8 @@
 # Devlog
 
+## 2026-11-09
+- Continued work on Phino: discussed SMWM's architecture and the inverse-dynamics anti-collapse argument, including the constant-predictor baseline, and read about the Random Hierarchy Model (RHM) and identifiability in latent vs. token prediction for world models.
+
 ## 2026-11-08
 - Continued work on Phino: diagnosed SMWM's forward predictor on a 50-episode Insert-Peg AnyGoal diagnostic — predicted latent changes were nearly orthogonal to actual encoded changes (cosine ≈ −0.03), so the next step is auditing the implementation and training-transition accuracy before running another experiment.
 
