@@ -1,5 +1,8 @@
 # Devlog
 
+## 2026-11-10
+- Continued work on Phino: reviewed the trajectory-similarity direction against physics-aware visual representations, including PIEGraph, IPSO, TAP-MPC, and DefFlow, and worked through SoftInfoNCE, SIMPACT, and DINOv2 encoder training for trajectory similarity. Also planned Spring 2027 coursework in world models and deep learning to support the Phino direction.
+
 ## 2026-11-09
 - Continued work on Phino: discussed SMWM's architecture and the inverse-dynamics anti-collapse argument, including the constant-predictor baseline, and read about the Random Hierarchy Model (RHM) and identifiability in latent vs. token prediction for world models.
 
